@@ -20,35 +20,35 @@ function Nav() {
                             <div className="hidden md:block">
                                 <div className="lg:ml-128 sm:48 flex space-x-4">
                                     <a
-                                        href="#"
+                                        href="/"
                                         className=" hover:bg-gray-700 text-gray-500 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                                     >
                                         Home
                                     </a>
 
                                     <a
-                                        href="#"
+                                        href="/aboutus"
                                         className="text-gray-600 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                                     >
                                         About Us
                                     </a>
 
                                     <a
-                                        href="#"
+                                        href="/services"
                                         className="text-gray-600 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                                     >
                                         Services
                                     </a>
 
                                     <a
-                                        href="#"
+                                        href="/products"
                                         className="text-gray-600 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                                     >
                                         Products
                                     </a>
 
                                     <a
-                                        href="#"
+                                        href="/portfolio"
                                         className="text-gray-600 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                                     >
                                         Portfolio
@@ -122,40 +122,40 @@ function Nav() {
                                 className="px-2 pt-2 pb-3 space-y-1 sm:px-3"
                             >
                                 <a
-                                    href="#"
+                                    href="/"
                                     className="hover:bg-gray-700 text-gray-800 hover:text-white  block px-3 py-2 rounded-md text-base font-medium"
                                     onClick={() => setIsOpen(false)}
                                 >
                                     Home
                                 </a>
                                 <a
-                                    href="#"
+                                    href="/aboutus"
                                     className="text-gray-800 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                                     onClick={() => setIsOpen(false)}
                                 >
                                     About Us
                                 </a>
                                 <a
-                                    href="#"
+                                    href="/services"
                                     className="text-gray-800 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                                     onClick={() => setIsOpen(false)}
                                 >
                                     Services
                                 </a>
                                 <a
-                                    href="#"
+                                    href="/products"
                                     className="text-gray-800 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                                     onClick={() => setIsOpen(false)}
                                 >
                                     Products
                                 </a>
                                 <a
-                                    href="#"
+                                    href="/portfolio"
                                     className="text-gray-800 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                                     onClick={() => setIsOpen(false)}
                                 >
                                     Portfolio
-                                </a>{" "}
+                                </a>
                                 <button
                                     className="text-white bg-purple-700  px-4 py-2 rounded-2xl text-sm font-medium"
                                     onClick={() => setIsOpen(false)}

@@ -18,13 +18,13 @@ function Footer() {
                         <h2 className="text-2xl mb-4">Links</h2>
                         <ul>
                             <li>
-                                <a href="#">Our Clients</a>
+                                <a href="/our-clients">Our Clients</a>
                             </li>
                             <li className="my-2">
-                                <a href="#">Privacy Policy</a>
+                                <a href="/privacy-policy">Privacy Policy</a>
                             </li>
                             <li>
-                                <a href="#">Our Benefits</a>
+                                <a href="/our-benefits">Our Benefits</a>
                             </li>
                         </ul>
                     </div>
@@ -34,13 +34,13 @@ function Footer() {
                         <h2 className="text-2xl mb-4">Information</h2>
                         <ul>
                             <li>
-                                <a href="#">Our Clients</a>
+                                <a href="/our-clients">Our Clients</a>
                             </li>
                             <li className="my-2">
-                                <a href="#">Privacy Policy</a>
+                                <a href="/privacy-policy">Privacy Policy</a>
                             </li>
                             <li>
-                                <a href="#">Our Benefits</a>
+                                <a href="/our-benefits">Our Benefits</a>
                             </li>
                         </ul>
                     </div>
@@ -48,13 +48,13 @@ function Footer() {
                         <h2 className="text-2xl mb-4">Contact Us</h2>
                         <ul>
                             <li>
-                                <a href="#">+91 9711999770, +1833-880-3355</a>
+                                <a href="/">+91 9711999770, +1833-880-3355</a>
                             </li>
                             <li className="my-2">
-                                <a href="#">info@bytequest.com</a>
+                                <a href="/">info@bytequest.com</a>
                             </li>
                             <li>
-                                <a href="#">
+                                <a href="/">
                                     84, Block A , Sector 4,Noida,UP,201301
                                 </a>
                             </li>
